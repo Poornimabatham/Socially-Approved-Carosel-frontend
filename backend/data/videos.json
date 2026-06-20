@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Beach Vibes",
+    "description": "Sunset at the beach",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "thumbnail": "https://picsum.photos/seed/beach/400/600",
+    "likes": 120,
+    "shares": 45,
+    "comments": []
+  },
+  {
+    "id": "2",
+    "title": "Mountain Trek",
+    "description": "Adventure in the hills",
+    "url": "https://www.w3schools.com/html/movie.mp4",
+    "thumbnail": "https://picsum.photos/seed/mountain/400/600",
+    "likes": 89,
+    "shares": 23,
+    "comments": []
+  },
+  {
+    "id": "3",
+    "title": "City Lights",
+    "description": "Night city exploration",
+    "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "thumbnail": "https://picsum.photos/seed/city/400/600",
+    "likes": 200,
+    "shares": 67,
+    "comments": []
+  },
+  {
+    "id": "4",
+    "title": "Forest Walk",
+    "description": "Calm walk through forest",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "thumbnail": "https://picsum.photos/seed/forest/400/600",
+    "likes": 55,
+    "shares": 14,
+    "comments": []
+  },
+  {
+    "id": "5",
+    "title": "Rain Drops",
+    "description": "Peaceful rain sounds",
+    "url": "https://www.w3schools.com/html/movie.mp4",
+    "thumbnail": "https://picsum.photos/seed/rain/400/600",
+    "likes": 178,
+    "shares": 34,
+    "comments": []
+  },
+  {
+    "id": "6",
+    "title": "Desert Storm",
+    "description": "Wild desert winds",
+    "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "thumbnail": "https://picsum.photos/seed/desert/400/600",
+    "likes": 93,
+    "shares": 18,
+    "comments": []
+  },
+  {
+    "id": "7",
+    "title": "Ocean Waves",
+    "description": "Deep ocean footage",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "thumbnail": "https://picsum.photos/seed/ocean/400/600",
+    "likes": 146,
+    "shares": 52,
+    "comments": []
+  },
+  {
+    "id": "8",
+    "title": "Snow Peaks",
+    "description": "Himalayan snow trek",
+    "url": "https://www.w3schools.com/html/movie.mp4",
+    "thumbnail": "https://picsum.photos/seed/snow/400/600",
+    "likes": 63,
+    "shares": 9,
+    "comments": []
+  },
+  {
+    "id": "9",
+    "title": "Jungle Safari",
+    "description": "Wild animals in jungle",
+    "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "thumbnail": "https://picsum.photos/seed/jungle/400/600",
+    "likes": 310,
+    "shares": 88,
+    "comments": []
+  },
+  {
+    "id": "10",
+    "title": "Waterfall Hike",
+    "description": "Hidden waterfall trail",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "thumbnail": "https://picsum.photos/seed/waterfall/400/600",
+    "likes": 95,
+    "shares": 27,
+    "comments": []
+  },
+  {
+    "id": "11",
+    "title": "Sunset Drive",
+    "description": "Highway sunset cruise",
+    "url": "https://www.w3schools.com/html/movie.mp4",
+    "thumbnail": "https://picsum.photos/seed/sunset/400/600",
+    "likes": 212,
+    "shares": 61,
+    "comments": []
+  },
+  {
+    "id": "12",
+    "title": "Night Market",
+    "description": "Street food and lights",
+    "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "thumbnail": "https://picsum.photos/seed/market/400/600",
+    "likes": 77,
+    "shares": 19,
+    "comments": []
+  }
+]
